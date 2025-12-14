@@ -1,5 +1,5 @@
 sum = 0
-num = int (input ('enter you number:'))
+num = int (input ('enter your number:'))
 
 while (num > 0) :
     sum = sum + (num % 10)                                
